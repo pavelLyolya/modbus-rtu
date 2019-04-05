@@ -52,7 +52,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
-DocumentPath=..\..\Курсач Нахратьянц\Altium Designer\Библиотеки.SchLib
+DocumentPath=Библиотеки.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -68,7 +68,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document3]
-DocumentPath=..\..\Курсач Нахратьянц\Altium Designer\Посадочные места.PcbLib
+DocumentPath=..\..\..\..\Public\Documents\Altium\AD14\MY_ASSETS\AltiumLibrary\Library\Project Outputs for Digital\Digital.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -84,7 +84,151 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document4]
-DocumentPath=..\..\..\..\Public\Documents\Altium\AD14\MY_ASSETS\AltiumLibrary\Library\Project Outputs for Digital\Digital.IntLib
+DocumentPath=..\..\..\..\Public\Documents\Altium\AD14\MY_ASSETS\AltiumLibrary\Library\Project Outputs for Discrete\Discrete.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document5]
+DocumentPath=..\..\..\..\Public\Documents\Altium\AD14\MY_ASSETS\AltiumLibrary\Library\Project Outputs for Analog\Analog.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document6]
+DocumentPath=..\..\..\..\Public\Documents\Altium\AD14\MY_ASSETS\AltiumLibrary\Library\Project Outputs for Connectors\Connectors.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document7]
+DocumentPath=..\..\..\..\Public\Documents\Altium\AD14\MY_ASSETS\AltiumLibrary\Library\Project Outputs for Diods\Diods.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document8]
+DocumentPath=..\..\..\..\Public\Documents\Altium\AD14\MY_ASSETS\AltiumLibrary\Library\Project Outputs for Interface\Interface.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document9]
+DocumentPath=..\..\..\..\Public\Documents\Altium\AD14\MY_ASSETS\AltiumLibrary\Library\Project Outputs for Module\Module.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document10]
+DocumentPath=..\..\..\..\Public\Documents\Altium\AD14\MY_ASSETS\AltiumLibrary\Library\Project Outputs for Power Supplies\Power Supplies.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document11]
+DocumentPath=..\..\..\..\Public\Documents\Altium\AD14\MY_ASSETS\AltiumLibrary\Library\Project Outputs for Relay\Relay.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document12]
+DocumentPath=..\..\..\..\Public\Documents\Altium\AD14\MY_ASSETS\AltiumLibrary\Library\Project Outputs for Transformer\Transformer.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document13]
+DocumentPath=..\..\..\..\Public\Documents\Altium\AD14\MY_ASSETS\AltiumLibrary\Library\Project Outputs for Transistor\Transistor.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
