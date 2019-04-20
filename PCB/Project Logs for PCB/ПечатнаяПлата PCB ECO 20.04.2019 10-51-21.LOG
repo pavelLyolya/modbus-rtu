@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=VCC Pin=R24-1
+Removed Pin From Net: NetName=PC8 Pin=R24-2
+Removed Pin From Net: NetName=VCC Pin=R25-1
+Removed Pin From Net: NetName=PC9 Pin=R25-2
+Removed Pin From Net: NetName=VCC Pin=R26-1
+Removed Pin From Net: NetName=PC10 Pin=R26-2
+Removed Pin From Net: NetName=VCC Pin=R27-1
+Removed Pin From Net: NetName=PC11 Pin=R27-2
+Removed Pin From Net: NetName=VCC Pin=R28-1
+Removed Pin From Net: NetName=PC12 Pin=R28-2
+Added Component: Designator=R36(CH0805R)
+Added Component: Designator=R37(CH0805R)
+Added Component: Designator=R38(CH0805R)
+Added Component: Designator=R39(CH0805R)
+Added Component: Designator=R40(CH0805R)
+Added Component: Designator=VD2(CH0603LB)
+Added Component: Designator=VD3(CH0603LB)
+Added Component: Designator=VD4(CH0603LB)
+Added Component: Designator=VD5(CH0603LB)
+Added Component: Designator=VD6(CH0603LB)
+Added Pin To Net: NetName=PC8 Pin=R24-1
+Added Pin To Net: NetName=VCC Pin=R24-2
+Added Pin To Net: NetName=PC9 Pin=R25-1
+Added Pin To Net: NetName=VCC Pin=R25-2
+Added Pin To Net: NetName=PC10 Pin=R26-1
+Added Pin To Net: NetName=VCC Pin=R26-2
+Added Pin To Net: NetName=PC11 Pin=R27-1
+Added Pin To Net: NetName=VCC Pin=R27-2
+Added Pin To Net: NetName=PC12 Pin=R28-1
+Added Pin To Net: NetName=VCC Pin=R28-2
+Added Pin To Net: NetName=GND Pin=VD2-2
+Added Pin To Net: NetName=GND Pin=VD3-2
+Added Pin To Net: NetName=GND Pin=VD4-2
+Added Pin To Net: NetName=GND Pin=VD5-2
+Added Pin To Net: NetName=GND Pin=VD6-2
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=VD2-1
+Added Net: Name=NetR36_2
+Added Pin To Net: NetName=NetR37_2 Pin=R37-2
+Added Pin To Net: NetName=NetR37_2 Pin=VD3-1
+Added Net: Name=NetR37_2
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=NetR38_2 Pin=VD4-1
+Added Net: Name=NetR38_2
+Added Pin To Net: NetName=NetR39_2 Pin=R39-2
+Added Pin To Net: NetName=NetR39_2 Pin=VD5-1
+Added Net: Name=NetR39_2
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=VD6-1
+Added Net: Name=NetR40_2
+Added Pin To Net: NetName=PA4 Pin=R36-1
+Added Pin To Net: NetName=PA4 Pin=U1-29
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=R37-1
+Added Pin To Net: NetName=PA5 Pin=U1-30
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=R38-1
+Added Pin To Net: NetName=PA6 Pin=U1-31
+Added Net: Name=PA6
+Added Pin To Net: NetName=PB14 Pin=R39-1
+Added Pin To Net: NetName=PB14 Pin=U1-53
+Added Net: Name=PB14
+Added Pin To Net: NetName=PB15 Pin=R40-1
+Added Pin To Net: NetName=PB15 Pin=U1-54
+Added Net: Name=PB15
+Added Member To Class: ClassName=Shcematic Member=Component R36 65
+Added Member To Class: ClassName=Shcematic Member=Component R37 65
+Added Member To Class: ClassName=Shcematic Member=Component R38 65
+Added Member To Class: ClassName=Shcematic Member=Component R39 65
+Added Member To Class: ClassName=Shcematic Member=Component R40 65
+Added Member To Class: ClassName=Shcematic Member=Component VD2 *
+Added Member To Class: ClassName=Shcematic Member=Component VD3 *
+Added Member To Class: ClassName=Shcematic Member=Component VD4 *
+Added Member To Class: ClassName=Shcematic Member=Component VD5 *
+Added Member To Class: ClassName=Shcematic Member=Component VD6 *
