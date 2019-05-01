@@ -1,0 +1,38 @@
+Bill of Material for 
+On 01.05.2019 at 10:55:42
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ *                   CH0603LB         6    VD1, VD2, VD3, VD4, VD5, VD6                      
+ *                   CH0805C         11    C16, C17, C18, C19, C20, C21                      
+                                           C22, C25, C26, C27, C28
+ *                   CH0805R          7    R29, R30, R31, R32, R33, R34                      
+                                           R35
+ *                   SOT23_123        2    VT1, VT2                     Mosfet               
+                     CH0805C          2    C23, C24                                          
+                     CH0805R          5    R24, R25, R26, R27, R28                           
+ 1 M                 CH0805R          1    R21                                               
+ 1.5 k               CH0805R          1    R6                                                
+ 10 k                CH0805R          2    R7, R18                                           
+ 10 pF               CH0805C          1    C15                                               
+ 10 uF               CH0805C          3    C4, C8, C12                                       
+ 100 nF              CH0805C          7    C1, C2, C3, C5, C6, C7, C11                       
+ 12.1 k              CH0805R          1    R16                                               
+ 190 mH              CH0805L          1    L2                                                
+ 20 pF               CH0805C          2    C13, C14                                          
+ 22                  CH0805R         12    R1, R8, R9, R10, R11, R12                         
+                                           R13, R14, R15, R17, R19, R20
+ 25MHz               OSC: 3215        1    Z1                                                
+ 49.9                CH0805R          4    R2, R3, R4, R5                                    
+ 65                  CH0805R          5    R36, R37, R38, R39, R40                           
+ 680                 CH0805R          2    R22, R23                                          
+ Battery             Battery          1    GB1                                               
+ BQ24295             BQ24295          1    DA1                          PWR                  
+ CAT6219             CAT6219          1    DD2                                               
+ HR911105A           CON: HR911105A    1    X1                           Ethernet RJ-45       
+ Inductor            CH0805L          1    L1                           Inductor             
+ LAN8720             *QFN50P400X400X100-25N - duplicate    1    DD1                                               
+ Resistor_termo      0805 (Resistor)    1    RK1                                               
+ STM32F407VGT6       STM-LQFP100_L    1    U1                           ARM Cortex-M4 32-bit MCU+FPU, 210 DMIPS, 1024 kB Flash, 192 kB Internal RAM, 82 I/Os, 100-pin LQFP, -40 to 85 degC, Tray 
+ USB                 USB              1    XS1                                               
+ Коннектор           Connector        1    XP1                                               
